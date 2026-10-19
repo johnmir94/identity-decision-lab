@@ -10,6 +10,9 @@ python3 -m http.server 8878 --bind 127.0.0.1
 ```
 
 Then open [http://localhost:8878](http://localhost:8878).
+
+[To run locally, index.html in your browser]
+
 ## Demonstration
 
 1. Set a scenario and explicit economics/review assumptions.
