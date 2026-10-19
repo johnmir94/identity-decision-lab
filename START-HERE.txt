@@ -1,0 +1,14 @@
+LAUNCHCRAFT — JOHN MIRANDA
+
+1. Extract this ZIP fully.
+2. Open the john-agentic-launch folder.
+3. Double-click index.html to open the app in your browser.
+
+No installation, account, or API key is required.
+Follow the four steps to create, edit, review, and download a launch package.
+
+Keep index.html, styles.css, and app.js together.
+See README.md for development and Git instructions.
+Nothing has been pushed to GitHub.
+
+Read Launchcraft-Project-Guide.docx for the project explanation, workflow, alignment with John’s experience and Socure, and an interview demo guide.
